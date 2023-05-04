@@ -1,0 +1,460 @@
+*{
+  margin: 0px;
+  padding: 0px;  
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.navbar{
+    height: 100px;
+    background-color: rgb(4,2,55);
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    position: fixed;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    width: 1580px;
+    margin-top: -150px;
+}
+.navbar h5{
+    font-weight: 520;
+}
+.navbar img{
+    width: 150px;
+}
+.h5{
+    margin-left: 20px;
+}
+.h5a{
+    margin-left: 140px;
+}
+.h5b{
+    margin-left: 25px;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 10px 20px;
+}
+.h5b:hover{
+    background-color: white;
+    color: rgb(4,2,55);
+    transition: all ease-in .7s;
+}
+.diver{
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+.diver img{
+    height: 180px;
+}
+.diver2{
+    text-align: center;
+    color: rgb(4,2,55);
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 0px 470px;
+}
+.h1b{
+    font-weight: 500;
+}
+.diver2 p{
+    font-size: 15.2px;
+    margin-top: 30px;
+    
+}
+.gem{
+    margin-top: 50px;
+}
+.spanner{
+    border: 1px solid rgb(249,98,62);
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: rgb(249,98,62);
+    box-shadow: 5px 5px rgb(4,2,55);
+    font-size: 12.5px;
+    color: white;
+    font-weight: 800;
+}
+.spanner:hover{
+    background-color: rgb(4,2,55);
+    box-shadow: none;
+    transition: all linear .3s;
+    border: none;
+}
+.spanner2{
+    font-size: 13px;
+    margin-left: 30px;
+}
+.spanner2:hover{
+    margin-left: 5px;
+    padding-right: 5px;
+    transition: all linear .3s;
+}
+.diver3{
+    background-color: rgb(250,244,235);
+    height: 700px;
+    margin-top: 50px;
+}
+.diver4{
+    padding: 50px 700px;
+
+}
+.diver5 h1{
+    text-align: center;
+    padding: 0px 550px;
+    color: rgb(4,2,55);
+    font-weight: 500;
+}
+.diver5 p{
+    font-size: 15px;
+    margin-top: 30px;
+    padding: 0px 470px;
+    text-align: center;
+}
+.diver6{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+}
+.diver7{
+    width: 300px;
+    height: 170px;
+    background-color: rgb(255,193,77);
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px 0px  ;
+}
+.diver7 h3{
+    padding: 0px 35px;
+}
+.diver7 p{
+    padding: 30px 40px ;
+}
+.diver8{
+    width: 300px;
+    height: 170px;
+    background-color: rgb(107,199,182);
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px 0px  ;
+    margin-left: 30px;
+}
+.diver8 h3{
+    padding: 0px 35px;
+}
+.diver8 p{
+    padding: 30px 40px;
+}
+.diver9{
+    width: 300px;
+    height: 170px;
+    background-color: rgb(255,193,77);
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px 0px;
+    margin-left: 30px;
+}
+.diver9 h3{
+    padding: 0px 35px;
+}
+.diver9 p{
+    padding: 30px 40px;
+}
+.diver6 :hover{
+    color: white;
+    transition: all linear .3s;
+}
+.diver10{
+    background-color: rgb(244,235,220);
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.diver11 h1{
+    font-weight: 500;
+}
+.diver11{
+    /* padding: 0px 100px 0px 100px; */
+    color: rgb(4,2,55);
+    
+}
+.diver12{
+    background-color: rgb(255,255,255);
+}
+.marque{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 20px;
+    
+}
+.marrqe{
+    padding-left: 70px;
+}
+.diver12 h1{
+    padding: 100px 300px 50px 300px;
+    text-align: center;
+    font-weight: 600;
+    color: rgb(4,2,55);
+}
+.diver12 video{
+    margin-left: 380px;
+    width: 50%;
+}
+.diver12 p{
+    text-align: center;
+    color: rgb(4,2,55);
+    font-weight: 500;
+}
+.diver13 img{
+    padding: 30px 300px;
+    
+}
+.imaged{
+    margin-top: -65px;
+    margin-left: 07.5px;
+}
+.imagedb{
+    margin-top: -50px;
+}
+.imagedc{
+    margin-left: 230px;
+}
+.diver14{
+    background-color: rgb(250,244,235);
+    height: 500px;
+}
+.imager{
+    padding: 30px 450px;
+}
+.diver15{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(4,2,55);
+    font-weight: 300;
+}
+.pen{
+    margin-left: 50px;
+    font-weight: bold;
+}
+.pen span{
+    margin-left: 20px;
+    padding-right: 20px;
+    font-size: 24px;
+}
+.diver16{
+    display: flex;
+    justify-content: center;
+}
+.diver17{
+    width: 150px;
+    margin-left: 50px;
+    color: rgb(4,2,55);
+}
+.diver17 h5{
+    padding: 20px 0px;
+}
+.diver18{
+    display: flex;
+    /* justify-content: center; */
+    height: 500px;
+    color: rgb(56,67,208);
+    align-items: center;
+    overflow-x: scroll;
+    width: 780px;
+    
+}
+.bigdiver18{
+    background-color: rgb(244,235,220);
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+.diver18a {
+    width: 235px;
+    height: 300px;
+    background-color: rgb(255,255,255);
+    font-size: 13px;
+    margin-left: 20px;
+}
+.diver18a h4{
+    padding: 10px 20px;
+}
+.diver19{
+    height: 250px;
+    background-color: rgb(4,2,55);
+    padding: 50px 330px;
+
+}
+.diven1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.diven1a{
+    background-color: rgb(235,236,250);
+    height: 100vh;
+    width: 50%;
+    text-align: center;
+    color: rgb(4,2,55)
+    ;
+}
+.diven1a p{
+    padding: 320px 0px 0px 0px;
+}
+.diven1a h2{
+    font-size: 18.5px;
+}
+.diven1a h4{
+    margin: 30px 310px;
+    border: 1px solid rgb(4,2,55);
+    width: 150px;
+    padding: 10px 10px;
+    border-radius: 20px;
+    background-color: white;
+    
+}
+.diven1b{
+    height: 100vh;
+    width: 50%;
+    text-align: center;
+}
+ .diven1b p{
+    padding: 270px 0px 0px 0px;
+}
+.diven1b h2{
+    font-size: 18.5px;
+}
+.diven1b h4{
+    margin: 30px 310px;
+    border: 1px solid rgb(4,2,55);
+    width: 150px;
+    padding: 10px 5px;
+    border-radius: 20px;
+    background-color: white;
+} 
+a{ text-decoration: none; }
+.diven1ba{
+   font-size: 25px;
+   margin-top: 10px;
+   text-align: end;
+   margin-right: 30px;
+}
+.navbar a{
+    color: white;
+}
+.diven1 h4:hover{
+    border: 1px solid rgb(141, 129, 129);
+    transition: all linear .3s;
+}
+.vid{
+    width: 280px;
+    height: 340px;
+    box-shadow: 2px 2px 20px 20px  rgba(38, 38, 185, 0.219);
+    margin-top: 70px;
+    margin-left: 650px;
+    border-radius: 10px;
+    color: rgb(57,94,201);
+    text-align: center;
+}
+.vidimg{
+    padding: 50px 0px 0px 0px;
+}
+.vid input{
+    width: 200px;
+    height: 24px;
+    padding-left: 10px;
+}
+.vid button{
+    width: 220px;
+    height: 27px;
+    color: white;
+    background-color: rgb(57,94,201);
+    margin: auto;
+    border: none;
+}
+.pass{
+    margin-top: 10px;
+}
+.aed{
+    font-size: 11px;
+    padding-top: 20px;
+}
+.aed2{
+    color: rgb(4,2,55);
+}
+.ivd{
+    background-color: rgb(4,2,55);
+    height: 100vh;
+    width: 40%;
+}
+.world{
+    margin-top: 170px;
+    margin-left: 130px;
+}
+.logo{
+    width: 170px;
+    margin-top: 130px;
+    margin-left: 220px;
+}
+.div{
+    display: flex;
+    
+}
+.hed{
+    margin-top: 200px;
+    margin-left: 400px;
+}
+.cust{
+    width: 400px;
+    height: 40px;
+    margin-left: 260px;
+    margin-top: 50px;
+    padding-left: 30px;
+    font-size: 20px;
+}
+.cusp{
+    width: 400px;
+    height: 40px;
+    margin-left: 260px;
+    margin-top: 20px;
+    padding-left: 30px;
+    font-size: 20px;
+}
+.aet{
+    margin-top: 10px;
+    padding-left: 505px;
+    
+    font-size: 15px;
+}
+.aet a{
+    color: rgb(57,94,201);
+}
+.login{
+    font-size: 20px;
+    font-weight: 650;
+    border: 1px solid rgb(56,67,208);
+    width: 430px;
+    text-align: center;
+    border-radius: 5px;
+    background-color: rgb(56,67,208);
+    color: white;
+    margin-top: 30px;
+    margin-left: 260px;
+    height: 40px;
+    padding-top: 5px;
+}
+.or{
+    margin-top: 35px;
+    margin-left: 270px;
+}
+.sso{
+    margin-top: 20px;
+    margin-left: 420px;
+    font-size: 18px;
+    font-weight: 550;
+    color: rgb(57,94,201);
+}
